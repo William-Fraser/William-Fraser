@@ -3,7 +3,7 @@
 - 🌱 Currently learning C#, TypeScript(JS), Unity, 
 - 💞️ I’m looking to collaborate on Video Games
 - :space_invader: Discord > Science!#9599 <
-- 📫 G-mail > williamfr0615@gmail.com <
+- 📫 E-mail > williamfr0615@gmail.com <
 
 <!---
 William-Fraser/William-Fraser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
