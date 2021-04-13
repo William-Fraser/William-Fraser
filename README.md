@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @William-Fraser
 - 👀 I’m interested in Games, Cats, Chocolate & Unrealistic Worlds, 
-- 🌱 Currently learning C#, Unity, TypeScript(JS), 
+- 🌱 Currently learning C#, TypeScript(JS), Unity, 
 - 💞️ I’m looking to collaborate on Video Games
 - 📫  > williamfr0615@gmail.com <
 
