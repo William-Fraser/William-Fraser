@@ -2,7 +2,8 @@
 - 👀 I’m interested in Games, Cats, Chocolate & Unrealistic Worlds, 
 - 🌱 Currently learning C#, TypeScript(JS), Unity, 
 - 💞️ I’m looking to collaborate on Video Games
-- 📫  > williamfr0615@gmail.com <
+- :space_invader:  > Science!#9599 <
+- 📫   > williamfr0615@gmail.com <
 
 <!---
 William-Fraser/William-Fraser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
