@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @William-Fraser
-- 👀 I’m interested in Games, Cats, Chocolate & Unrealistic Worlds, 
+- 👀 I’m interested in Games, Cats, Chocolate & Unrealistic Worlds similar to ours, 
 - 🌱 Currently learning C#, TypeScript(JS), Unity, 
 - 💞️ I’m looking to collaborate on Video Games
 - :space_invader: Discord > Science!#9599 <
