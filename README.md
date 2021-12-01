@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @William-Fraser
-- 👀 I’m interested in Games, Cats, Chocolate & Unrealistic Worlds, 
+- :sunny:  I’m interested in Games, Cats, Chocolate & Unrealistic Worlds, 
 - 🌱 Currently learning C#, TypeScript(JS), Unity, 
-- 💞️ I’m looking to collaborate on Video Games
+- :palms_up_together:  I’m looking to collaborate on Video Games
 - :space_invader: Discord > Science!#9599 <
 - 📫 E-mail > williamfr0615@gmail.com <
 
